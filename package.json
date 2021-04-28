@@ -1,0 +1,16 @@
+{
+  "name": "weighted-graph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "graph-data-structure": "^1.13.0"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
